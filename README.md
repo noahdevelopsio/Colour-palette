@@ -24,19 +24,19 @@ The Simple Color Palette App is a lightweight web application built with React. 
 
 1. Clone the repository:
 
-    git clone https://github.com/noahdevelopsio/color-palette.git
+    `git clone https://github.com/noahdevelopsio/color-palette.git`
 
 2. Navigate to the project directory:
 
-    cd color-palette-app
+    `cd color-palette-app`
 
 3. Install dependencies:
 
-     npm install
+     `npm install`
 
 4. Start the development server:
 
-    npm start
+    `npm start`
 
 5. Open your browser and visit `http://localhost:3000` to view the app.
 
